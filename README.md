@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a member of GDSE community.
+I am a member of GDSC community.
 I am willing to learn new things and present many ideas to work on, hope to get allong with you.
 <!--
 **TheCoder07/TheCoder07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
